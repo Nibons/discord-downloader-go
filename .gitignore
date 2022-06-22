@@ -12,7 +12,8 @@
 *.out
 
 # Exclude subdirectories (things like database, saved images during testing)
-/**
+/*/**
+
 # Exclude build command shortcut(s)
 *.cmd
 # Exclude own settings
